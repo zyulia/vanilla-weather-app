@@ -58,10 +58,7 @@ li:first-letter {
   font-size: 16px;
   top: -34px;
 }
-#fahrenheit,
-#celsius {
-  text-decoration: none;
-}
+
 .weather-forecast {
   margin-top: 20px;
   text-align: center;
